@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Monkey
+  - Armadillo
+  - Snake
+  - CurrentForm
+  - Vine
+  - FallingTree
+  - TreeLanding
+  - Undefined
+  - SwingyVine
+  - Hook
+  - JumpReset
+  - block
+  - position1
+  - position2
+  - Water
+  - Ramp
+  - ShowOnPause
+  - DestroyBanana
+  - MapEdge
+  - Level1Finish
+  - Level2Finish
+  - Platform
+  - StaticCrate
+  - Wall
+<<<<<<< HEAD
+  - Boulder
+  - BossBarrier
+=======
+  - CheckPointMaster
+>>>>>>> a09f60aed10f2350f204e22cdfcc9ef38306ea8f
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Vine
+  - 
+  - 
+  - ResetJump
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1615642191
+    locked: 0
+  - name: Background2
+    uniqueID: 3393439267
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1975414021
+    locked: 0
+  - name: Player
+    uniqueID: 2890329141
+    locked: 0
+  - name: InFront
+    uniqueID: 3247827051
+    locked: 0
