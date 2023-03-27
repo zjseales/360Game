@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 26521b1a708cb9040bca79392ff4af3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9095134709444119572
+    second: armadilloanimation1coloured_0
+  - first:
+      213: 4509979783435659546
+    second: armadilloanimation1coloured_1
+  - first:
+      213: -1306402257706018936
+    second: armadilloanimation1coloured_2
+  - first:
+      213: -1646841716320389968
+    second: armadilloanimation1coloured_3
+  - first:
+      213: -2742934167487864552
+    second: armadilloanimation1coloured_4
+  - first:
+      213: 3848339007370388068
+    second: armadilloanimation1coloured_5
+  - first:
+      213: 120637200469554265
+    second: armadilloanimation1coloured_6
+  - first:
+      213: 5282110554665002219
+    second: armadilloanimation1coloured_7
+  - first:
+      213: 757717350947340527
+    second: armadilloanimation1coloured_8
+  - first:
+      213: 5796987022409122793
+    second: armadilloanimation1coloured_9
+  - first:
+      213: -4471092764048521900
+    second: armadilloanimation1coloured_10
+  - first:
+      213: 3814241239874585929
+    second: armadilloanimation1coloured_11
+  - first:
+      213: -8679131010332487749
+    second: armadilloanimation1coloured_12
+  - first:
+      213: -7873501485218804115
+    second: armadilloanimation1coloured_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: armadilloanimation1coloured_0
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 73
+        width: 920
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c0eb484d8683e70800000000000000
+      internalID: 9095134709444119572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadilloanimation1coloured_1
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 924
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1920e7d7baa69e30800000000000000
+      internalID: 4509979783435659546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadilloanimation1coloured_2
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 85
+        width: 814
+        height: 877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8871aa7711abedde0800000000000000
+      internalID: -1306402257706018936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadilloanimation1coloured_3
+      rect:
+        serializedVersion: 2
+        x: 4591
+        y: 15
+        width: 785
+        height: 976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4bd613f2e3529e0800000000000000
+      internalID: -1646841716320389968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadilloanimation1coloured_4
+      rect:
+        serializedVersion: 2
+        x: 5564
+        y: 38
+        width: 861
+        height: 918
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811aa9848e32fe9d0800000000000000
+      internalID: -2742934167487864552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadilloanimation1coloured_5
+      rect:
+        serializedVersion: 2
+        x: 6660
+        y: 114
+        width: 878
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462679510fb086530800000000000000
+      internalID: 3848339007370388068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadilloanimation1coloured_6
+      rect:
+        serializedVersion: 2
+        x: 8857
+        y: 91
+        width: 919
+        height: 859
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9547fa805e69ca100800000000000000
+      internalID: 120637200469554265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadilloanimation1coloured_7
+      rect:
+        serializedVersion: 2
+        x: 10034
+        y: 61
+        width: 814
+        height: 877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4262b4093dd4940800000000000000
+      internalID: 5282110554665002219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadilloanimation1coloured_8
+      rect:
+        serializedVersion: 2
+        x: 11065
+        y: 0
+        width: 780
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0cd578ae3f38a00800000000000000
+      internalID: 757717350947340527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadilloanimation1coloured_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 103
+        width: 925
+        height: 789
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3ce3eabf8037050800000000000000
+      internalID: 5796987022409122793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadilloanimation1coloured_10
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 102
+        width: 967
+        height: 801
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4558119e1dc73f1c0800000000000000
+      internalID: -4471092764048521900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadilloanimation1coloured_11
+      rect:
+        serializedVersion: 2
+        x: 6421
+        y: 648
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945ce5ee238eee430800000000000000
+      internalID: 3814241239874585929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadilloanimation1coloured_12
+      rect:
+        serializedVersion: 2
+        x: 7690
+        y: 126
+        width: 973
+        height: 783
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf0e0284588d8780800000000000000
+      internalID: -8679131010332487749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armadilloanimation1coloured_13
+      rect:
+        serializedVersion: 2
+        x: 9467
+        y: 86
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ec5036d14bbb290800000000000000
+      internalID: -7873501485218804115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
