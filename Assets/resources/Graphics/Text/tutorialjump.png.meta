@@ -1,0 +1,864 @@
+fileFormatVersion: 2
+guid: 1fbecf881e6819a4ea02e3f8eb916e0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 297156067943584400
+    second: tutorialjump_0
+  - first:
+      213: -4942524814195725230
+    second: tutorialjump_1
+  - first:
+      213: -8127096737129283126
+    second: tutorialjump_2
+  - first:
+      213: -1022084356774731685
+    second: tutorialjump_3
+  - first:
+      213: 908804232393072455
+    second: tutorialjump_4
+  - first:
+      213: 2089181291399798600
+    second: tutorialjump_5
+  - first:
+      213: 4411715676428770893
+    second: tutorialjump_6
+  - first:
+      213: -969263197639673559
+    second: tutorialjump_7
+  - first:
+      213: -4596813201060425259
+    second: tutorialjump_8
+  - first:
+      213: 3472134820451176596
+    second: tutorialjump_9
+  - first:
+      213: 2789616695640792478
+    second: tutorialjump_10
+  - first:
+      213: 4685816684118922268
+    second: tutorialjump_11
+  - first:
+      213: 164343897140567808
+    second: tutorialjump_12
+  - first:
+      213: 2778026597314504000
+    second: tutorialjump_13
+  - first:
+      213: 4778032737809069488
+    second: tutorialjump_14
+  - first:
+      213: -2292713557659517341
+    second: tutorialjump_15
+  - first:
+      213: 6415027205626009384
+    second: tutorialjump_16
+  - first:
+      213: -7794385461057339429
+    second: tutorialjump_17
+  - first:
+      213: 1378083769301348767
+    second: tutorialjump_18
+  - first:
+      213: -7609721558800398279
+    second: tutorialjump_19
+  - first:
+      213: 6756886893977977734
+    second: tutorialjump_20
+  - first:
+      213: -380604171710634850
+    second: tutorialjump_21
+  - first:
+      213: -6114956418936238623
+    second: tutorialjump_22
+  - first:
+      213: -3726034230385035859
+    second: tutorialjump_23
+  - first:
+      213: -7673346613493683538
+    second: tutorialjump_24
+  - first:
+      213: 8716762977306418554
+    second: tutorialjump_25
+  - first:
+      213: -2038710929854169215
+    second: tutorialjump_26
+  - first:
+      213: 5306631747806387256
+    second: tutorialjump_27
+  - first:
+      213: 5090747406517410660
+    second: tutorialjump_28
+  - first:
+      213: -8457249560294570852
+    second: tutorialjump_29
+  - first:
+      213: -3277436810906151161
+    second: tutorialjump_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tutorialjump_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 743
+        width: 1988
+        height: 673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09211a09ed5bf1400800000000000000
+      internalID: 297156067943584400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_1
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1290
+        width: 304
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c6f4c3edf986bb0800000000000000
+      internalID: -4942524814195725230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_2
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1316
+        width: 72
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac14c28a390c63f80800000000000000
+      internalID: -8127096737129283126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_3
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1289
+        width: 173
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5065f751b3d0d1f0800000000000000
+      internalID: -1022084356774731685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1152
+        width: 108
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f192262a8bc9c00800000000000000
+      internalID: 908804232393072455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1145
+        width: 161
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fd649c0534efc10800000000000000
+      internalID: 2089181291399798600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_6
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1125
+        width: 299
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e1f8f8800993d30800000000000000
+      internalID: 4411715676428770893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_7
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1132
+        width: 111
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929f3d2d14c7c82f0800000000000000
+      internalID: -969263197639673559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_8
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1112
+        width: 170
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d197f3afb6d430c0800000000000000
+      internalID: -4596813201060425259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_9
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1142
+        width: 142
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490d14919308f2030800000000000000
+      internalID: 3472134820451176596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_10
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1151
+        width: 72
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d1b2bca95b6b620800000000000000
+      internalID: 2789616695640792478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_11
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1125
+        width: 125
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14d18b927d570140800000000000000
+      internalID: 4685816684118922268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_12
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1125
+        width: 77
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f111a57edd74200800000000000000
+      internalID: 164343897140567808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_13
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1145
+        width: 160
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045a48db8788d8620800000000000000
+      internalID: 2778026597314504000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_14
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1125
+        width: 171
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5fb4eb57bfe4240800000000000000
+      internalID: 4778032737809069488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_15
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1151
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e7bf7aa25ae20e0800000000000000
+      internalID: -2292713557659517341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_16
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1142
+        width: 171
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8271ec75141c60950800000000000000
+      internalID: 6415027205626009384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 981
+        width: 170
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf353738b7c4d390800000000000000
+      internalID: -7794385461057339429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_18
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 947
+        width: 230
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9130f303efef1310800000000000000
+      internalID: 1378083769301348767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_19
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 977
+        width: 247
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93802107f86d46690800000000000000
+      internalID: -7609721558800398279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_20
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 977
+        width: 211
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683cc0f94d845cd50800000000000000
+      internalID: 6756886893977977734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_21
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 986
+        width: 72
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94e729b582d7baf0800000000000000
+      internalID: -380604171710634850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_22
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 947
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed8f40198f432ba0800000000000000
+      internalID: -6114956418936238623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_23
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 968
+        width: 228
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da534fcdb977a4cc0800000000000000
+      internalID: -3726034230385035859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_24
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 981
+        width: 141
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa234009ebc28590800000000000000
+      internalID: -7673346613493683538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_25
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 981
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d10a59eb928f870800000000000000
+      internalID: 8716762977306418554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_26
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 979
+        width: 303
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ff55af53b05b3e0800000000000000
+      internalID: -2038710929854169215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_27
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 803
+        width: 194
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c5fc97571f4a940800000000000000
+      internalID: 5306631747806387256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_28
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 782
+        width: 214
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b16b65bc7f5a640800000000000000
+      internalID: 5090747406517410660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_29
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 814
+        width: 93
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9440d55550d1aa80800000000000000
+      internalID: -8457249560294570852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorialjump_30
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1283
+        width: 938
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7075628c5943482d0800000000000000
+      internalID: -3277436810906151161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
