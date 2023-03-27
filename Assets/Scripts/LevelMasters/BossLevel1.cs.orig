@@ -1,0 +1,84 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+/** BossLevel1.cs
+  * COSC360 Game Assignment
+  * Team Goold
+  *
+  * Manages the first boss level, controls movement of the enemy,
+  * attacks, projectiles, and player health.
+  */
+
+public class BossLevel1 : MonoBehaviour {
+
+    static public BossLevel1 instance;
+
+    // Boss Hit points
+    public static int bossHealth = 3;
+    // stops boss losing multiple hp with 1 hit
+    public static bool invincible;
+
+    public static bool phase3 = false;
+    public static bool phase2 = false;
+    public static bool phase1 = true;
+
+<<<<<<< HEAD
+    private void Start()
+    {
+        GameMaster.playerHealth = 3;
+        instance = this;
+       
+=======
+    void Start(){
+        GameMaster.playerHealth = 3;
+>>>>>>> 02de0f6044fd7231e42252e66ec1340646355147
+    }
+    // Method to call when enemy is hit
+    public static void bossHit() {
+        if (invincible){
+            return;
+        }
+        // boss loses a hit point
+        bossHealth--;
+        invincible = true;
+        Debug.Log("Boss Health " + bossHealth);
+        //check if boss is dead
+        if (bossHealth <= 0){
+           
+            GameObject.FindObjectOfType<MonkeyBoss>().gameObject.SetActive(false);
+            GameMaster.numAnimals = 2;
+            instance.StartCoroutine("EndBossLevel");
+            
+        }
+    }
+    //allow player to attach to same vine after a short time.
+    IEnumerator EndBossLevel()
+    {
+
+        yield return new WaitForSeconds(3f);
+        SceneManager.LoadScene("Level2_ArmadilloMonkey");
+    }
+
+
+    // Method to call when player is hit
+    public static void PlayerHit() {
+      GameMaster.playerHealth--;
+      // Reduce player's lives
+      if(GameMaster.playerHealth > 0) {
+      } else {
+          GameMaster.playerHealth = 3;
+          bossHealth = 3;
+          phase3 = false;
+          SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+
+      }
+   }//end PlayerHit method
+
+
+
+
+
+    
+}//end BossLevel1 class
